@@ -1,0 +1,6 @@
+spacy>=3.7.0
+numpy>=1.24.0
+#Install command:
+#pip install -r requirements.txt
+#python -m spacy download en_core_web_sm
+

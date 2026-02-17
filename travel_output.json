@@ -1,0 +1,16 @@
+{
+    "names": [
+        "Mr Navneet Jain",
+        "Mrs Avni Jain",
+        "Mr Aryan Jain",
+        "Mstr Viaan Jain "
+    ],
+    "destination": "Singapore",
+    "email": null,
+    "total_persons": 4,
+    "adults": 3,
+    "children": 1,
+    "travel_start_date": "22 Feb 2026",
+    "travel_end_date": "26 Feb 2026",
+    "intent": "confirmation"
+}
